@@ -1,0 +1,12 @@
+{
+  "name": "rocketlog",
+  "version": "1.0.0",
+  "description": "API de entregas de encomendas",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Ederson Santos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
